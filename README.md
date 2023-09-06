@@ -7,4 +7,4 @@
 - cloudinary [https://cloudinary.com/] 
 
 # Developer Details
-- Name: Abinash Kar
+- Name: Abinash Kar [https://abinashkar.com]
