@@ -6,4 +6,5 @@
 - Render [https://render.com/] For Database - POSTGRESQL
 - cloudinary [https://cloudinary.com/] 
 
-# Developer
+# Developer Details
+- Name: Abinash Kar
