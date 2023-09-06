@@ -8,4 +8,4 @@
 
 # Developer Details
 - Name: Abinash Kar [https://abinashkar.com]
-- Github Profile link []
+- Github Profile link [https://github.com/abhi-png]
