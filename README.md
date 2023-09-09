@@ -4,7 +4,7 @@
 
 - Strapi [https://strapi.io/] 
 - Render [https://render.com/] For Database - POSTGRESQL
-- cloudinary [https://cloudinary.com/] 
+- cloudinary [https://cloudinary.com/] - For Image File
 
 # Developer Details
 - Name: Abinash Kar [https://abinashkar.com]
