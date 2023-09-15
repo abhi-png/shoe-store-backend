@@ -14,12 +14,12 @@
     "@strapi/plugin-users-permissions": "4.13.1",
     "@strapi/provider-upload-cloudinary": "^4.13.1",
     "@strapi/strapi": "4.13.1",
+    "next": "^13.4.19",
     "pg": "8.8.0",
-    "strip": "^3.0.0",
-    "stripe": "^13.4.0"
+    "stripe": "^13.6.0"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Abinash Kar"
   },
   "strapi": {
     "uuid": "b348dd34-d72f-4ee5-996a-7f07c616ab77"
